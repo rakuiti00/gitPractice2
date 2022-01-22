@@ -1,0 +1,16 @@
+bkup/test.txt
+bkup/test1.txt
+bkup/test2.txt
+bkup/tomcatplugin.txt
+bkup/web.xml
+bkup/テスト１からファイル作成.txt
+bkup/テスト２からファイル作成 .txt
+bkup/テスト３からファイル作成 .txt
+bkup/ブランチ切り替えテスト.txt
+bkup/プルしない状態でコミットしてみる.txt
+bkup/新規ブランチファイル作成１.txt
+bkup/設定ファイルと同時に追加.txt
+bkup/gitgnoreがある状態でファイルコミットした場合.txt
+bkup/設定ファイルの変更が競合した場合、たぶんエラーになる.txt
+tomcatplugin.txt
+web.xml
