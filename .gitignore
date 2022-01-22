@@ -12,3 +12,5 @@ bkup/新規ブランチファイル作成１.txt
 bkup/設定ファイルと同時に追加.txt
 bkup/gitgnoreがある状態でファイルコミットした場合.txt
 bkup/設定ファイルの変更が競合した場合、たぶんエラーになる.txt
+tomcatplugin.txt
+web.xml
